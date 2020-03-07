@@ -9,3 +9,10 @@ option B:
     Go (select each green box?)
     
 #example entry: https://www.genome.jp/dbget-bin/www_bget?sce:YKL127W+sce:YMR105C+sce:YMR278W
+
+---------
+
+Print:
+  entry#, pathwayID, name, MODULE info
+
+  
